@@ -1,4 +1,4 @@
-# Extended Description — BankOps Suite (QA Focus)
+# BankOps Suite (QA Focus)
 
 **BankOps Suite** is an end-to-end Quality Assurance testing framework designed to validate a Flask-based core banking application. The suite focuses on ensuring functional correctness, data accuracy, API reliability, UI stability, and backend transactional integrity across all major banking workflows.
 
