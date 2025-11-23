@@ -1,0 +1,14 @@
+# Core testing libs
+pytest
+requests
+pytest-html
+
+# Selenium (UI tests)
+selenium
+webdriver-manager
+
+# DB / Postgres driver (if using Postgres)
+psycopg2-binary
+
+# Optional utilities
+python-dotenv
