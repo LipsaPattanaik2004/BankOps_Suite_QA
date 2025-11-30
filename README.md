@@ -1,4 +1,4 @@
-# BankOps Suite (QA Focus)
+# BankOps Suite - QA Automation for Banking Operations
 
 **BankOps Suite** is an end-to-end Quality Assurance testing framework designed to validate a Flask-based core banking application. The suite focuses on ensuring functional correctness, data accuracy, API reliability, UI stability, and backend transactional integrity across all major banking workflows.
 
@@ -15,13 +15,13 @@ Each test scenario includes preconditions, execution steps, expected results, an
 ## 2. Automated Testing Framework
 BankOps Suite integrates **PyTest**, **Selenium**, and HTTP-based API tests to deliver repeatable and scalable QA automation.
 
-### API Testing (PyTest + requests)
+## API Testing (PyTest + requests)
 - REST API validation for all banking endpoints
 - Schema validation & response contract checks
 - Boundary and negative test scenarios
 - Authentication & token-based flows (placeholders available)
 
-### UI Testing (Selenium)
+## UI Testing (Selenium)
 - End-to-end user flow automation
 - Form validation & navigation checks
 - Success/failure message and redirect validation
@@ -58,4 +58,4 @@ Suggested future work:
 ## Summary
 BankOps Suite ensures the banking application is stable, accurate, and testable. It provides a solid foundation for building robust QA automation around critical financial workflows.
 
-### LIPSA PATTANAIK | ITER SOA UNIVERSITY
+# LIPSA PATTANAIK | ITER SOA UNIVERSITY
